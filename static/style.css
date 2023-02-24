@@ -86,3 +86,7 @@ body{
   color: #644bff;
   cursor: pointer;
 }
+
+.website_name {
+  color: rgb(255, 255, 255);
+}
